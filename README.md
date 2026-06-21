@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A3D62&height=190&section=header&text=Michael%20Tierney&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Co-founder%20%40%20WhiteCap%20Data%20%C2%B7%20Data%20Integration%20%26%20AI%20Automation&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Michael Tierney — Co-founder, WhiteCap Data" />
+<img src="assets/banner.svg" width="100%" alt="Michael Tierney — Co-founder, WhiteCap Data" />
 
 I build the **connective tissue** between the tools businesses already pay for —<br>
 then wire **AI agents** and **self-hosted infrastructure** on top.
